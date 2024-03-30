@@ -9,9 +9,9 @@ Hello there 👋, I'm Andre!
 
 <br/>
 
-<h3 align="center">
+<h2 align="center">
 About Me
-</h3>
+</h2>
 <br/>
 
 <p align="center">
@@ -19,7 +19,7 @@ About Me
 </p>
 
 <br/>
-<h3 align="center"> Languages and Tools: </h3>
+<h2 align="center"> 🔧 Languages and Tools </h2>
 <br/>
 
 <div align="center">
@@ -28,13 +28,15 @@ About Me
 </div>
 <br/>
 
-<h3 align="center"> ⚙️ GitHub Stats </h3>
+<h2 align="center"> ⚙️ GitHub Stats </h2>
 <br/>
 
 <p align="center">
 <a href="https://github.com/Andre0819" align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andre0819&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre0819&layout=compact&exclude_lang=java+r&theme=vue-dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/Andre0819" align="center">
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre0819&layout=compact&exclude_lang=java+r&theme=vue-dark&include_all_commits=true" />
 </a>
 </p>
 
