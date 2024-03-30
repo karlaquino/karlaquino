@@ -9,14 +9,17 @@ Hello there 👋, I'm Andre!
 
 <br>
 
-<h4 align="center">
+<h3 align="center">
 About Me
-</h4>
+</h3>
 <p align="center">
 <b>Hi, I'm Andre!</b>  I'm a Computer Science undergraduate at De La Salle University - Manila. I'm passionate about full-stack web development and will soon be starting a data science project. I'm an aspiring software engineer eager to learn and grow.
 </p>
+
+<br>
+
 <p align="center">
-<h3 align="center"> Languages and Tools: </h4>
+<h3 align="center"> Languages and Tools: </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,tailwind,firebase,mysql,mongodb,python,java,c,cpp,html,css"/>
   <img src="https://skillicons.dev/icons?i=github,git,vscode,figma"/>
