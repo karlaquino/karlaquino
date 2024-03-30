@@ -12,25 +12,24 @@ Hello there 👋, I'm Andre!
 <h3 align="center">
 About Me
 </h3>
+<br>
 <p align="center">
 <b>Hi, I'm Andre!</b>  I'm a Computer Science undergraduate at De La Salle University - Manila. I'm passionate about full-stack web development and will soon be starting a data science project. I'm an aspiring software engineer eager to learn and grow.
 </p>
 
 <br>
-
-<p align="center">
 <h3 align="center"> Languages and Tools: </h3>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,tailwind,firebase,mysql,mongodb,python,java,c,cpp,html,css"/>
   <img src="https://skillicons.dev/icons?i=github,git,vscode,figma"/>
 </div>
-</p>
-
 <br>
 
 <h3 align="center"> ⚙️ GitHub Stats </h3>
+<br>
 <p align="center">
-<a href="https://github.com/Andre0819">
+<a href="https://github.com/Andre0819" align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andre0819&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre0819&layout=compact&exclude_lang=java+r&theme=vue-dark&include_all_commits=true" />
 </a>
