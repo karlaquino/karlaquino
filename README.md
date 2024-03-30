@@ -7,7 +7,11 @@ Hello there 👋, I'm Andre!
 <a href="mailto:karlandre.aquino@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<h4 align="center">About Me</h4>
+<br>
+
+<h4 align="center">
+About Me
+</h4>
 <p align="center">
 <b>Hi, I'm Andre!</b>  I'm a Computer Science undergraduate at De La Salle University - Manila. I'm passionate about full-stack web development and will soon be starting a data science project. I'm an aspiring software engineer eager to learn and grow.
 </p>
@@ -18,6 +22,7 @@ Hello there 👋, I'm Andre!
   <img src="https://skillicons.dev/icons?i=github,git,vscode,figma"/>
 </div>
 </p>
+
 <br>
 
 <h3 align="center"> ⚙️ GitHub Stats </h3>
@@ -27,4 +32,5 @@ Hello there 👋, I'm Andre!
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre0819&layout=compact&exclude_lang=java+r&theme=vue-dark&include_all_commits=true" />
 </a>
 </p>
+
 <br>
