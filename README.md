@@ -38,9 +38,9 @@ About Me
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andre0819&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre0819&layout=compact&exclude_lang=java+r&theme=vue-dark&include_all_commits=true" />
-</div>
+</div> -->
 </a>
 </p>
 
