@@ -23,7 +23,7 @@ About Me
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,tailwind,firebase,mysql,mongodb,python,java,c,cpp,vue,html,css"/>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,nodejs,tailwind,firebase,mysql,mongodb,python,java,c,cpp,vue,html,css"/>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,git,gitlab,vscode,visualstudio,figma"/>
