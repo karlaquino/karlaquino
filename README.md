@@ -15,7 +15,7 @@ About Me
 <br/>
 
 <p align="center">
-<b>Hi, I'm Andre!</b>  A Computer Science undergraduate at De La Salle University - Manila. I'm also a Software Engineer who loves working on web and mobile applications full-stack. My current goal? Be a better Software Engineer than I was yesterday.
+<b>Hi, I'm Andre!</b>  A Computer Science undergraduate at De La Salle University - Manila. I'm also a Software Engineer who loves working on web and mobile applications full-stack.
 </p>
 <p align="center">
 My current goal? Be a better Software Engineer than I was yesterday.
